@@ -4,3 +4,5 @@ cd ~
 cd - 
 hello world
 
+hello python
+
