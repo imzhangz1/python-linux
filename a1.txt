@@ -1,3 +1,9 @@
 hello linux
 
+<<<<<<< HEAD
 hello python
+=======
+hello windows
+
+hello zj
+>>>>>>> b746b4fbe1d59baf51bad3b065d8f45938c9030a
